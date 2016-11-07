@@ -26,7 +26,7 @@ SECRET_KEY = '-4bda$9$f0!y#y-fr@1=oe%zifi67vsr!ho7x7j+4!1p#k5r$9'
 DEBUG = True
 # DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [neko2016.pythonanywhere.com]
 
 
 # Application definition
